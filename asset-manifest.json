@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/theefra/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/theefra/static/js/main.6d664471.chunk.js",
-    "main.js.map": "/theefra/static/js/main.6d664471.chunk.js.map",
-    "runtime-main.js": "/theefra/static/js/runtime-main.c72feca2.js",
-    "runtime-main.js.map": "/theefra/static/js/runtime-main.c72feca2.js.map",
-    "static/js/2.37198d6c.chunk.js": "/theefra/static/js/2.37198d6c.chunk.js",
-    "static/js/2.37198d6c.chunk.js.map": "/theefra/static/js/2.37198d6c.chunk.js.map",
-    "static/js/3.19c73f81.chunk.js": "/theefra/static/js/3.19c73f81.chunk.js",
-    "static/js/3.19c73f81.chunk.js.map": "/theefra/static/js/3.19c73f81.chunk.js.map",
-    "index.html": "/theefra/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/theefra/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.37198d6c.chunk.js.LICENSE.txt": "/theefra/static/js/2.37198d6c.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/theefra/static/media/logo.6ce24c58.svg"
+    "main.css": "/www.theefra.com/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/www.theefra.com/static/js/main.6d664471.chunk.js",
+    "main.js.map": "/www.theefra.com/static/js/main.6d664471.chunk.js.map",
+    "runtime-main.js": "/www.theefra.com/static/js/runtime-main.6d079b7d.js",
+    "runtime-main.js.map": "/www.theefra.com/static/js/runtime-main.6d079b7d.js.map",
+    "static/js/2.37198d6c.chunk.js": "/www.theefra.com/static/js/2.37198d6c.chunk.js",
+    "static/js/2.37198d6c.chunk.js.map": "/www.theefra.com/static/js/2.37198d6c.chunk.js.map",
+    "static/js/3.19c73f81.chunk.js": "/www.theefra.com/static/js/3.19c73f81.chunk.js",
+    "static/js/3.19c73f81.chunk.js.map": "/www.theefra.com/static/js/3.19c73f81.chunk.js.map",
+    "index.html": "/www.theefra.com/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/www.theefra.com/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.37198d6c.chunk.js.LICENSE.txt": "/www.theefra.com/static/js/2.37198d6c.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/www.theefra.com/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c72feca2.js",
+    "static/js/runtime-main.6d079b7d.js",
     "static/js/2.37198d6c.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
     "static/js/main.6d664471.chunk.js"
