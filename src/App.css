@@ -1,5 +1,49 @@
 .App {
-  text-align: center;
+  min-height: 100vh;
+  background-color: #282C34
+}
+
+.Header {
+  min-height: 70vh;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.Navbar{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  min-height: 8vh;
+  font-family: 'Poppins', sans-serif;
+}
+
+.Navbar-brand{
+  text-decoration: none;
+}
+
+.Navbar-title{
+  color: white;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  font-size: 20px;
+}
+
+.Navbar-title span{
+  color: #00818A;
+}
+
+.Navbar-links{
+  display: flex;
+  justify-content: space-around;
+  width: 30%;
+  list-style: none;
+}
+
+.Navbar-links a{
+  color: white;
+  text-decoration: none;
 }
 
 .App-logo {
@@ -13,16 +57,6 @@
   }
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
 
 .App-link {
   color: #61dafb;
