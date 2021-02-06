@@ -1,0 +1,83 @@
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    min-height: 8vh;
+    font-family: 'Poppins', sans-serif;
+}
+  
+.navbar-brand{
+    text-decoration: none;
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    font-size: 20px;
+}
+
+.navbar-brand span{
+    color: #00818A;
+}
+  
+.navbar-list{
+    display: flex;
+    justify-content: space-around;
+    width: 30%;
+    list-style: none;
+}
+  
+.navbar-link{
+color: white;
+text-decoration: none;
+}
+  
+.navbar-burguer{
+    display: none;
+}
+
+.navbar-burguer:hover{
+    border: 1px solid white;
+    border-radius: 10%;
+}
+  
+.navbar-burguer div{
+    background-color: white;
+    width: 25px;
+    height: 3px;
+    margin: 5px;
+}
+
+@media only screen and (max-width: 1080px) {
+    .navbar-list {
+       width: 50%;
+    }
+} 
+  
+@media screen and (max-width: 768px){
+  
+    body{
+      overflow-x: hidden;
+    }
+  
+    .navbar-list{
+      position: absolute;
+      top: 8vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      height: 20vh;
+      background-color: #285467;
+      width: 100%;
+      transform: scaleY(0);
+      transform-origin: top;
+      transition: .5s;
+    }
+  
+    .navbar-burguer{
+      display: block;
+    }
+  
+}
+  
+.navbar-active{
+    transform: scaleY(1)
+} 
